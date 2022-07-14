@@ -11,3 +11,4 @@ Text = "Thanks for Using Nelz hub giatay ka",
 Button1 = "Ok :)",
 Duration = 20
 })
+   print 'tanginamo'

@@ -8,7 +8,7 @@ end
 game:GetService("StarterGui"):SetCore("SendNotification",{     
 Title = "Nelz Hub",     
 Text = "Thanks for Using Nelz hub giatay ka",
-Button1 = "Ok :)",
+Button1 = "Ayaw kol ahahahah :)",
 Duration = 20
 })
    print 'tanginamo'

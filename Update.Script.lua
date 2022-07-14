@@ -5,4 +5,4 @@ if PlaceId == 2753915549 or PlaceId == 4442272183 or PlaceId == 7449423635 then
 if PlaceId == 2753915549 or PlaceId == 4442272183 or PlaceId == 7449423635 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Kaidoisj/xUpdate/main/xluax",true))()
 end
-   print 'RightClicked'
+   print 'Hello World'
